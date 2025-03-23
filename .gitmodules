@@ -1,0 +1,3 @@
+[submodule "Tech/Chatbot"]
+	path = Tech/Chatbot
+	url = https://github.com/Levdvorniy/Aeroflot-s7-hackaton.git
